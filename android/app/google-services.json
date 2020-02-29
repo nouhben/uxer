@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21938890240",
+    "firebase_url": "https://uberclonx.firebaseio.com",
+    "project_id": "uberclonx",
+    "storage_bucket": "uberclonx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21938890240:android:e676c44971452476fd9ae5",
+        "android_client_info": {
+          "package_name": "com.nuhben.flutter_uxer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21938890240-0i5geijoqukfkm981guk963rr2qcbr99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkR4TKW_dx0fxsCw9aAgn0U4QNGOr8y7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21938890240-0i5geijoqukfkm981guk963rr2qcbr99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
